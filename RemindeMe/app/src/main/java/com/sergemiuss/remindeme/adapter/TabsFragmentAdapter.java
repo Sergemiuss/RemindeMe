@@ -12,7 +12,6 @@ import com.sergemiuss.remindeme.fragment.IdeasFragment;
 import com.sergemiuss.remindeme.fragment.TodoFragment;
 
 import java.util.HashMap;
-import java.util.Hashtable;
 import java.util.Map;
 
 public class TabsFragmentAdapter extends FragmentPagerAdapter {
